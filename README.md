@@ -1,7 +1,5 @@
 # Nashville Short-Term Rental Investment Analysis 🏠
 
-![Dashboard Preview](dashboard.jpg)
-
 ### 📊 Project Overview
 A data analytics project to identify the optimal neighborhoods for short-term rental investment in Nashville, TN. This project answers the question: **"Where can an investor maximize ROI while minimizing entry risk?"**
 
