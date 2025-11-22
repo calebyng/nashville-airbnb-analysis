@@ -14,4 +14,4 @@ A data analytics project to identify the optimal neighborhoods for short-term re
 * **Revenue Clusters:** High-revenue properties are not strictly central; geospatial analysis revealed distinct pockets of high performance in developing peripheral neighborhoods.
 
 ### 📈 Interactive Dashboard
-[Link to Tableau Public Dashboard]((http://bit.ly/48l93UC))
+[Link to Tableau Public Dashboard](http://bit.ly/48l93UC)
